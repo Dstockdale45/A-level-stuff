@@ -11,17 +11,56 @@
 ``` 
 this is an area for code or examples etc
 
-Counting uses natural number
+Counting uses natural numbers
 A set of natural number can expressed as:
 N={0,1,2,3...}
 
 ```
 
 + integer numbers
+
+**definition**: these are whole numbers.
+
+**examples**: 2, 5, 2552, 117
+```
+A set of integer numbers can be expressed as:
+Z={-3, -2, -1, 0, 1, 2, 3}
+and so on
+
+```
+
 + rational numbers
+**definition**: these can be expressed as fractions.
+
+**examples**: 0.5, 0.2, 0.75
+
+```
+
 + irrational numbers
+
+**definition**: an irrational number cannot be written as a fraction
+
+**examples**: pi, square root of any positive number that isn't a square number
+
+```
+
 + real numbers
+
+**definition**: all possible real world quantities, including rational and irrational numbers.
+
+**examples**: 1.23, 2625, -46548 etc
+
+```
+
 + ordinal numbers
+**definition**: when objects are placed in order the ordinal number is the position number of that object.
+				1	    2		    3
+**examples**: lemon, pineapple, screwdriver
+```
+These can be expressed as:
+S={"lemon", "pineapple", "screwdriver"}
+etc
+```
 
 ### 3.5.2 Number bases
 + base 2: those are binary numbers. example: 1010<sub>2</sub>. See [this site](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html) for more infomation
