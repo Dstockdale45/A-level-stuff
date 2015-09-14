@@ -33,7 +33,6 @@ and so on
 **definition**: these can be expressed as fractions.
 
 **examples**: 0.5, 0.2, 0.75
-
 ```
 
 + irrational numbers
