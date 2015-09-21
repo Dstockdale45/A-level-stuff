@@ -30,6 +30,7 @@ and so on
 ```
 
 + rational numbers
+
 **definition**: these can be expressed as fractions.
 
 **examples**: 0.5, 0.2, 0.75
@@ -52,13 +53,14 @@ and so on
 ```
 
 + ordinal numbers
+
 **definition**: when objects are placed in order the ordinal number is the position number of that object.
-				1	    2		    3
+               	1	    2		    3
 **examples**: lemon, pineapple, screwdriver
 ```
 These can be expressed as:
 S={"lemon", "pineapple", "screwdriver"}
-etc
+etc              
 ```
 
 ### 3.5.2 Number bases
